@@ -1,0 +1,28 @@
+Requirement
+The system must allow users to add and remove smart devices from the home network through a user-friendly interface.
+Each connected device must provide real-time status updates, including operational state, connectivity, and performance metrics.
+Users must be able to manually control individual devices through the application using on/off toggles, sliders, or other appropriate controls.
+The system must support secure user authentication through at least one method, such as passwords, biometrics, or two-factor authentication.
+Users must be able to create multiple accounts with role-based access control, allowing different permission levels for administrators, residents, and guests.
+The application must allow users to manage access rights for individual devices and automation settings, restricting unauthorized changes.
+Users must be able to define automation rules that trigger device actions based on specific conditions such as time, sensor input, or user location.
+The system must support the creation of multi-condition automation rules, allowing users to specify multiple triggers and corresponding actions.
+Users must be able to modify, enable, or disable automation rules at any time without affecting other system functionalities.
+The application must support Wi-Fi, Bluetooth, Zigbee, and Z-Wave protocols to ensure compatibility with a wide range of smart devices.
+The system must automatically detect newly connected compatible devices and prompt the user to configure them.
+Users must be able to integrate the application with third-party voice assistants such as Alexa, Google Assistant, and Siri for voice control.
+The system must allow users to connect their smart home application to external cloud services for data backup and remote access.
+Developers must have access to an API that enables integration with additional third-party applications and services.
+The application must track the energy consumption of connected devices and display real-time and historical usage data.
+Users must receive periodic reports and recommendations on how to optimize energy consumption based on past usage patterns.
+The system must allow users to schedule energy-intensive appliances to operate during off-peak hours to reduce electricity costs.
+The application must support smart locks, enabling users to lock and unlock doors remotely through the app.
+The system must integrate with security cameras and motion sensors, providing real-time monitoring and alerts for suspicious activities.
+Users must receive instant notifications for potential security threats, such as unauthorized access attempts or unusual movements detected by sensors.
+The system must allow users to remotely view live and recorded security footage through the mobile application.
+Users must be able to control smart home devices remotely via a mobile app or web interface.
+The application must send real-time notifications for critical system events, including device malfunctions, automation execution, and security alerts.
+Users must be able to customize notification preferences, choosing between push notifications, SMS, or email alerts.
+The system must use artificial intelligence to learn user behavior and suggest automation rules based on observed patterns.
+AI-driven scheduling must optimize device operation for energy efficiency, security, and user comfort.
+Users must be able to review and approve AI-suggested automation before they are applied to the system.

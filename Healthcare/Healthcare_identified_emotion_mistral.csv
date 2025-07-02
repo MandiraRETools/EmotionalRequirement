@@ -1,0 +1,442 @@
+Requirement,Response
+A patient healthcare assistance system that is designed to monitor patient health remotely. Such a system will have a front-end that runs as an application on smartphones or desktops. At the back end," Functional Requirement: The system should allow patients to schedule appointments with their healthcare providers through the application.
+
+Demographic 1: Patients with technical background
+Emotional Response: Confidence, Joy
+Explanation: Patients with technical background will likely appreciate the convenience of scheduling appointments through the application. They may feel confident in their ability to use the system and joyful about the time saved from not having to call or visit the healthcare provider's office.
+
+Demographic 2: Novice Patients from non technical background
+Emotional Response: Hope, Engaging
+Explanation: Novice patients from non-technical backgrounds may feel hopeful about the ease of scheduling appointments through the application. They may find the system engaging and user-friendly, which can help them feel more comfortable using technology for healthcare purposes.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+Emotional Response: Pride, Confidence
+Explanation: Healthcare workers with technical backgrounds may feel proud of the system's ability to streamline appointment scheduling. They may also feel confident in their ability to use the system and appreciate the time saved from not having to manually schedule appointments.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+Emotional Response: Engaging, Hope
+Explanation: Novice healthcare workers from non-technical backgrounds may find the system engaging and hopeful about the ease of scheduling appointments through the application. They may appreciate the time saved from not having to manually schedule appointments and feel more comfortable using technology for healthcare purposes."
+The cloud server will be responsible for maintaining patient health records.," Based on the provided functional requirement, ""The cloud server will be responsible for maintaining patient health records,"" here are the predicted emotional responses for each user demographic:
+
+1. Patients with technical background:
+Emotional response: Confidence, Pride
+These users are likely to appreciate the use of cloud technology for maintaining their health records, as they understand the benefits of cloud storage, such as accessibility, security, and scalability. They may feel confident that their records are being stored securely and may feel a sense of pride in using a healthcare system that employs modern technology.
+2. Novice Patients from non-technical background:
+Emotional response: Hope, Engaging
+These users may not fully understand the technical aspects of cloud storage, but they are likely to appreciate the convenience of having their health records stored in a centralized location. They may feel hopeful that their records will be easily accessible to healthcare providers and may find the use of cloud technology engaging.
+3. Healthcare Workers (Doctor, Nurse, Lab technician) with technical background:
+Emotional response: Confidence, Pride
+These users are likely to appreciate the use of cloud technology for maintaining patient health records, as they understand the benefits of cloud storage, such as accessibility, security, and scalability. They may feel confident that patient records are being stored securely and may feel a sense of pride in using a healthcare system that employs modern technology.
+4. Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non-technical background:
+Emotional response: Hope, Engaging
+These users may not fully understand the technical aspects of cloud storage, but they are likely to appreciate the convenience of having patient health records stored in a centralized location. They may feel hopeful that patient records will be easily accessible to healthcare providers and may find the use of cloud technology engaging.
+
+In summary, the use of cloud technology for maintaining patient health records is likely to elicit positive emotional responses from all user demographics. Patients and healthcare workers with technical backgrounds are likely to feel confident and proud of using a modern healthcare system, while novice users may feel hopeful and engaged."
+The edge nodes will be lightweight and have limited processing capability.," Functional Requirement: The edge nodes will be lightweight and have limited processing capability.
+
+Demographic 1: Patients with technical background
+Emotional Response: Confidence, Engaging
+Patients with technical background may feel confident and engaged with the lightweight edge nodes as they understand the technical limitations and benefits of such a system. They may appreciate the efficiency and reliability of the system due to its lightweight nature.
+
+Demographic 2: Novice Patients from non technical background
+Emotional Response: Hope, Surprise
+Novice patients from non-technical backgrounds may feel hopeful and surprised by the lightweight edge nodes. They may not fully understand the technical aspects but can appreciate the simplicity and ease of use. They may also be pleasantly surprised by the system's performance despite its limited processing capability.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+Emotional Response: Pride, Confidence
+Healthcare workers with technical backgrounds may feel proud and confident in using the lightweight edge nodes. They may appreciate the system's efficiency and reliability and understand the benefits of a lightweight system. They may also feel confident in their ability to troubleshoot and maintain the system.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+Emotional Response: Engaging, Hope
+Novice healthcare workers from non-technical backgrounds may feel engaged and hopeful with the lightweight edge nodes. They may appreciate the simplicity and ease of use and feel hopeful that the system will improve their workflow. They may also feel engaged in learning more about the system and its capabilities.
+
+Relevant Examples:
+
+1. Review: The system is very user-friendly and easy to navigate. I appreciate the simplicity of the design and the fact that it doesn't require a lot of processing power.
+Feature: User-friendly, Simple Design, Lightweight
+Emotion: Engaging, Hope
+2. Review: I was initially skeptical about the system's limited processing capability, but I was pleasantly surprised by its performance. It's fast, reliable, and doesn't crash or freeze.
+Feature: Limited Processing Capability, Reliability, Performance
+Emotion: Surprise, Confidence
+3. Review: As a healthcare worker, I appreciate the system's efficiency and reliability. It's lightweight and doesn't require a lot of maintenance or troubleshooting.
+Feature: Efficiency, Reliability, Lightweight
+Emotion: Pride, Confidence
+4. Review: I'm not very tech-savvy, but I found the system to be very easy to use. I appreciate the simplicity of the design and the fact that it doesn't require a lot of processing power.
+Feature: User-friendly, Simple Design, Lightweight
+Emotion: Engaging, Hope"
+The patient must register himself/herself to a healthcare application system. ," Functional Requirement: The patient must register himself/herself to a healthcare application system.
+
+Demographic 1: Patients with technical background
+
+Emotional Response: Confidence
+
+Explanation: Patients with technical background are likely to feel confident in registering themselves to a healthcare application system. They are familiar with the process and can easily navigate through the system. They may also appreciate the convenience of being able to manage their health information online.
+
+Demographic 2: Novice Patients from non technical background
+
+Emotional Response: Self-Consciousness
+
+Explanation: Novice patients from non-technical backgrounds may feel self-conscious about registering themselves to a healthcare application system. They may be unfamiliar with the process and feel intimidated by the technology. They may also be concerned about their ability to use the system correctly and may require additional support.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+
+Emotional Response: Pride
+
+Explanation: Healthcare workers with technical backgrounds may feel proud to be able to use a healthcare application system. They are likely to appreciate the efficiency and convenience of the system and may feel a sense of accomplishment in being able to use it effectively.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+
+Emotional Response: Hope
+
+Explanation: Novice healthcare workers from non-technical backgrounds may feel hopeful about using a healthcare application system. They may be excited about the potential benefits of the system and may be eager to learn how to use it effectively. However, they may also feel some anxiety about the learning curve and may require additional support.
+
+Overall, the emotional responses to the functional requirement of patient registration to a healthcare application system vary depending on the user demographic. Patients with technical backgrounds are likely to feel confident, while novice patients from non-technical backgrounds may feel self-conscious. Healthcare workers with technical backgrounds may feel proud, while novice healthcare workers from non-technical backgrounds may feel hopeful."
+The patient is expected to have wearable sensor devices in their body. There may be one or more wearable sensor devices in patients' bodies.," Functional Requirement: The healthcare software system should be able to integrate data from wearable sensor devices in patients' bodies and display it in a user-friendly format.
+
+Demographic 1: Patients with technical background
+Emotional Response: Confidence, Pride
+Patients with technical background are likely to feel confident and proud using a healthcare software system that integrates data from wearable sensor devices. They may appreciate the technical complexity of the system and feel a sense of accomplishment in using it effectively.
+
+Demographic 2: Novice Patients from non technical background
+Emotional Response: Hope, Engaging
+Novice patients from non-technical backgrounds may feel hopeful and engaged when using a healthcare software system that integrates data from wearable sensor devices. They may appreciate the convenience of having their health data readily available and feel more engaged in their own healthcare.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+Emotional Response: Confidence, Pride
+Healthcare workers with technical backgrounds are likely to feel confident and proud using a healthcare software system that integrates data from wearable sensor devices. They may appreciate the technical complexity of the system and feel a sense of accomplishment in using it effectively.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+Emotional Response: Hope, Engaging
+Novice healthcare workers from non-technical backgrounds may feel hopeful and engaged when using a healthcare software system that integrates data from wearable sensor devices. They may appreciate the convenience of having patients' health data readily available and feel more engaged in their patients' healthcare.
+
+Overall, the integration of data from wearable sensor devices in a healthcare software system is likely to elicit positive emotional responses from all user demographics. Patients and healthcare workers alike may feel more confident, proud, hopeful, and engaged in their healthcare as a result of this feature."
+The wearable sensor device(s) will periodically record patient vitals. ," Functional Requirement: The wearable sensor device(s) will periodically record patient vitals.
+
+Demographic 1: Patients with technical background
+
+* Emotional Response: Confidence, Pride
+
+Patients with technical background may feel confident and proud using a wearable sensor device that periodically records their vitals. They may appreciate the technical aspect of the device and feel comfortable using it. They may also feel a sense of control over their health and be more engaged in their healthcare.
+
+Demographic 2: Novice Patients from non technical background
+
+* Emotional Response: Hope, Engaging
+
+Novice patients from non-technical backgrounds may feel hopeful and engaged using a wearable sensor device that periodically records their vitals. They may appreciate the convenience of the device and feel more connected to their healthcare. They may also feel a sense of relief knowing that their vitals are being monitored regularly.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+
+* Emotional Response: Confidence, Pride
+
+Healthcare workers with technical backgrounds may feel confident and proud using a wearable sensor device that periodically records patient vitals. They may appreciate the technical aspect of the device and feel comfortable using it. They may also feel a sense of control over their patients' health and be more engaged in their healthcare.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+
+* Emotional Response: Hope, Engaging
+
+Novice healthcare workers from non-technical backgrounds may feel hopeful and engaged using a wearable sensor device that periodically records patient vitals. They may appreciate the convenience of the device and feel more connected to their patients' healthcare. They may also feel a sense of relief knowing that their patients' vitals are being monitored regularly.
+
+Relevant examples of past user feedback, reviews, and emotional responses to similar features of a different healthcare system:
+
+* ""I love my wearable sensor device! It makes me feel more in control of my health and I appreciate the convenience of having my vitals monitored regularly.""
+* ""I was hesitant to use a wearable sensor device at first, but now I can't imagine my healthcare without it. It's so convenient and I feel more connected to my healthcare.""
+* ""As a healthcare worker, I appreciate the technical aspect of the wearable sensor device. It makes me feel more confident in my patients' care and I appreciate the convenience of having their vitals monitored regularly.""
+* ""I was hesitant to use a wearable sensor device at first, but now I can't imagine my patients' healthcare without it. It's so convenient and I feel more connected to their care."""
+The data recorded by the sensor will be forwarded to the application in the smartphone of the patient. It then forwards the data for processing.," Based on the given functional requirement, the data recorded by the sensor will be forwarded to the application in the smartphone of the patient, and then forwarded for processing. Here are the predicted emotional responses for each user demographic:
+
+1. Patients with technical background:
+Emotional response: Confidence, Pride
+Patients with technical background are likely to feel confident and proud using this feature, as they understand the technical aspects of data transfer and processing. They may appreciate the seamless integration of sensor data with the smartphone application and the backend processing.
+2. Novice Patients from non-technical background:
+Emotional response: Hope, Engaging
+Novice patients from non-technical background may feel hopeful and engaged with this feature, as it provides them with a sense of control over their health data. They may appreciate the ease of use and the ability to monitor their health data in real-time.
+3. Healthcare Workers (Doctor, Nurse, Lab technician) with technical background:
+Emotional response: Confidence, Pride, Joy
+Healthcare workers with technical background are likely to feel confident, proud, and joyful using this feature, as it provides them with accurate and real-time data for patient monitoring. They may appreciate the technical aspects of data transfer and processing, as well as the ability to make informed decisions based on the data.
+4. Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non-technical background:
+Emotional response: Hope, Engaging, Surprise
+Novice healthcare workers from non-technical background may feel hopeful, engaged, and surprised with this feature, as it provides them with a new way of monitoring patient data. They may appreciate the ease of use and the ability to monitor patient data in real-time, as well as the potential for improved patient outcomes.
+
+Overall, the emotional responses to this functional requirement are likely to be positive, with users feeling confident, proud, hopeful, engaged, and joyful. However, it is important to consider the specific needs and goals of each user demographic when designing and implementing this feature."
+The data can be processed at edge node or at cloud server depending upon the type of analysis to be performed.," Functional Requirement: The data can be processed at edge node or at cloud server depending upon the type of analysis to be performed.
+
+Demographic 1: Patients with technical background
+Emotional Response: Confidence, Pride
+Explanation: Patients with technical background may feel confident and proud as they understand the technical aspect of data processing and appreciate the flexibility of choosing between edge node and cloud server processing.
+
+Demographic 2: Novice Patients from non technical background
+Emotional Response: Hope, Engaging
+Explanation: Novice patients may not fully understand the technical aspect of data processing, but they may feel hopeful that their data is being processed in a secure and efficient manner. They may also find the feature engaging as it provides them with a sense of control over their data.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+Emotional Response: Confidence, Pride, Joy
+Explanation: Healthcare workers with technical background may feel confident and proud as they understand the technical aspect of data processing and appreciate the flexibility of choosing between edge node and cloud server processing. They may also feel joy as it makes their job easier and more efficient.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+Emotional Response: Hope, Engaging, Surprise
+Explanation: Novice healthcare workers may not fully understand the technical aspect of data processing, but they may feel hopeful that their data is being processed in a secure and efficient manner. They may also find the feature engaging as it provides them with a sense of control over their data. They may also feel surprised as they may not have known about the option of processing data at edge node or cloud server.
+
+Relevant Examples:
+
+* Review: ""I love the flexibility of being able to choose between edge node and cloud server processing. It makes my job so much easier and efficient.""
+* Review: ""I'm not very tech-savvy, but I appreciate that my data is being processed in a secure and efficient manner. It gives me peace of mind.""
+* Review: ""I was surprised to learn that I could choose between edge node and cloud server processing. It's a great feature that I didn't know about before."""
+Cloud server should keep a record of all data processing results at all times for all patients registered in the system.," Based on the given functional requirement, the emotional responses of different user demographics are as follows:
+
+Demographic 1: Patients with technical background
+
+* Confidence: Patients with technical background will feel confident that their data is being stored securely and can be accessed at any time.
+* Pride: They may feel proud that they are using a healthcare system that prioritizes data security and accessibility.
+
+Demographic 2: Novice Patients from non technical background
+
+* Hope: Novice patients from non-technical background may feel hopeful that their data is being stored securely and can be accessed when needed.
+* Engaging: They may find the feature engaging as it provides them with a sense of control over their health data.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+
+* Confidence: Healthcare workers with technical background will feel confident that they can access patient data at any time, which can help them make informed decisions about patient care.
+* Pride: They may feel proud that they are using a healthcare system that prioritizes data security and accessibility.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+
+* Hope: Novice healthcare workers from non-technical background may feel hopeful that they can access patient data at any time, which can help them make informed decisions about patient care.
+* Engaging: They may find the feature engaging as it provides them with a sense of control over patient data.
+
+Overall, the emotional responses to this functional requirement are positive, with users feeling confident, hopeful, and engaged. However, it is important to note that the emotional responses may vary depending on the specific implementation of the feature and the user's individual needs and preferences."
+Based on the data processing of the vitals recorded if it finds some abnormality then it must take an action.," Based on the provided functional requirement, the healthcare software system will automatically take action if it detects any abnormalities in the recorded vitals.
+
+Demographic 1: Patients with technical background
+
+* Emotional response: Confidence, Hope
+
+Patients with technical background may feel confident and hopeful knowing that the system can automatically detect and respond to any abnormalities in their vitals. They may appreciate the advanced technology and feel reassured that their health is being monitored closely.
+
+Demographic 2: Novice Patients from non technical background
+
+* Emotional response: Surprise, Engaging
+
+Novice patients from non-technical backgrounds may be surprised and engaged by the system's ability to automatically detect and respond to abnormalities in their vitals. They may find the technology interesting and feel reassured that their health is being monitored closely.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+
+* Emotional response: Pride, Confidence
+
+Healthcare workers with technical backgrounds may feel proud and confident in the system's ability to automatically detect and respond to abnormalities in patients' vitals. They may appreciate the advanced technology and feel that it will help them provide better care to their patients.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+
+* Emotional response: Hope, Engaging
+
+Novice healthcare workers from non-technical backgrounds may feel hopeful and engaged by the system's ability to automatically detect and respond to abnormalities in patients' vitals. They may find the technology interesting and feel that it will help them provide better care to their patients.
+
+Overall, the emotional responses to this functional requirement are likely to be positive, with users feeling confident, hopeful, and engaged by the advanced technology. However, it is important to ensure that the system is user-friendly and accessible to all users, regardless of their technical background."
+When the patient is located at home supported by some caregiver or family member the system may raise an alarm in case of any severity in patient condition. This requires an alarm system to be installed in the home where the patient resides.," Based on the given functional requirement and the user demographics, here are the predicted emotional responses:
+
+1. Patients with technical background:
+Emotional Response: Confidence, Hope
+Patients with technical background are likely to feel confident and hopeful about the alarm system. They understand the technical aspects of the system and appreciate its potential to improve their healthcare outcomes. They may also feel a sense of control and empowerment knowing that they can monitor their health status and receive timely alerts in case of any severity in their condition.
+2. Novice Patients from non technical background:
+Emotional Response: Surprise, Engaging
+Novice patients from non-technical backgrounds may feel surprised and engaged by the alarm system. They may not fully understand the technical aspects of the system, but they appreciate its potential to improve their healthcare outcomes. They may also feel a sense of relief knowing that they have an additional layer of protection and support in case of any medical emergency.
+3. Healthcare Workers (Doctor, Nurse, Lab technician) with technical background:
+Emotional Response: Pride, Confidence
+Healthcare workers with technical backgrounds are likely to feel proud and confident about the alarm system. They understand the technical aspects of the system and appreciate its potential to improve patient outcomes. They may also feel a sense of professional satisfaction knowing that they are using cutting-edge technology to provide better care to their patients.
+4. Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background:
+Emotional Response: Hope, Engaging
+Novice healthcare workers from non-technical backgrounds may feel hopeful and engaged by the alarm system. They may not fully understand the technical aspects of the system, but they appreciate its potential to improve patient outcomes. They may also feel a sense of relief knowing that they have an additional layer of protection and support in case of any medical emergency.
+
+Overall, the alarm system is likely to evoke positive emotional responses from all user demographics. Patients and healthcare workers alike appreciate its potential to improve healthcare outcomes and provide an additional layer of protection and support in case of any medical emergency."
+When the patient is alone at home then it may notify a doctor to visit the patient or send an ambulance in case of any severity in patient condition.," Based on the given functional requirement, here are the predicted emotional responses for each user demographic:
+
+1. Patients with technical background:
+Emotional Response: Confidence, Hope
+Patients with technical background are likely to feel confident and hopeful about the functional requirement. They understand the technical aspects of the system and appreciate the potential benefits of having an automated notification system that can alert healthcare professionals in case of an emergency. They may also feel a sense of relief knowing that they can rely on the system to monitor their health and alert medical professionals if necessary.
+2. Novice Patients from non-technical background:
+Emotional Response: Hope, Surprise
+Novice patients from non-technical backgrounds may feel hopeful and surprised by the functional requirement. They may not fully understand the technical aspects of the system, but they appreciate the potential benefits of having an automated notification system that can alert healthcare professionals in case of an emergency. They may also feel a sense of relief knowing that they can rely on the system to monitor their health and alert medical professionals if necessary.
+3. Healthcare Workers (Doctor, Nurse, Lab technician) with technical background:
+Emotional Response: Confidence, Pride
+Healthcare workers with technical backgrounds are likely to feel confident and proud of the functional requirement. They understand the technical aspects of the system and appreciate the potential benefits of having an automated notification system that can alert healthcare professionals in case of an emergency. They may also feel a sense of pride knowing that they are part of a healthcare system that prioritizes patient safety and well-being.
+4. Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non-technical background:
+Emotional Response: Hope, Engaging
+Novice healthcare workers from non-technical backgrounds may feel hopeful and engaged by the functional requirement. They may not fully understand the technical aspects of the system, but they appreciate the potential benefits of having an automated notification system that can alert healthcare professionals in case of an emergency. They may also feel a sense of engagement knowing that they are part of a healthcare system that prioritizes patient safety and well-being.
+
+Overall, the functional requirement is likely to elicit positive emotional responses from all user demographics. Patients and healthcare workers alike appreciate the potential benefits of having an automated notification system that can alert medical professionals in case of an emergency. The system can provide a sense of security and peace of mind for patients, while also improving the efficiency and effectiveness of healthcare delivery."
+When the patient is outside it may send an ambulance and also may notify and family members in case of any severity in patient condition.," Based on the given context, here are the predicted emotional responses of different user demographics to the functional requirement:
+
+Demographic 1: Patients with technical background
+
+* Confidence: Patients with technical background may feel confident in using the healthcare software system that has the ability to send an ambulance and notify family members in case of any severity in patient condition. They may appreciate the advanced features and the potential impact on their health and well-being.
+* Pride: Patients with technical background may feel proud to be using a healthcare software system that is technologically advanced and has the ability to provide timely assistance in case of emergencies.
+
+Demographic 2: Novice Patients from non technical background
+
+* Hope: Novice patients from non-technical background may feel hopeful that the healthcare software system will provide them with timely assistance in case of emergencies. They may appreciate the simplicity and ease of use of the system, which may help them feel more comfortable and confident in using it.
+* Joy: Novice patients from non-technical background may feel joyful and relieved to know that the healthcare software system has the ability to send an ambulance and notify family members in case of any severity in patient condition. They may appreciate the peace of mind that comes with knowing that they have access to timely assistance in case of emergencies.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+
+* Confidence: Healthcare workers with technical background may feel confident in using the healthcare software system that has the ability to send an ambulance and notify family members in case of any severity in patient condition. They may appreciate the advanced features and the potential impact on patient care and well-being.
+* Pride: Healthcare workers with technical background may feel proud to be using a healthcare software system that is technologically advanced and has the ability to provide timely assistance in case of emergencies.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+
+* Hope: Novice healthcare workers from non-technical background may feel hopeful that the healthcare software system will provide them with timely assistance in case of emergencies. They may appreciate the simplicity and ease of use of the system, which may help them feel more comfortable and confident in using it.
+* Joy: Novice healthcare workers from non-technical background may feel joyful and relieved to know that the healthcare software system has the ability to send an ambulance and notify family members in case of any severity in patient condition. They may appreciate the peace of mind that comes with knowing that they have access to timely assistance in case of emergencies.
+
+In summary, the emotional responses of different user demographics to the functional requirement are likely to be positive, with feelings of confidence, pride, hope, and joy being common. The ability to send an ambulance and notify family members in case of any severity in patient condition is likely to be seen as a valuable feature that can provide timely assistance in case of emergencies."
+The application will also provide provision for placing online medicine order.," Based on the given context and the functional requirement of placing online medicine orders, here are the predicted emotional responses for each user demographic:
+
+1. Patients with technical background:
+Emotional response: Confidence, Joy
+These users are likely to be comfortable with technology and appreciate the convenience of placing online medicine orders. They may feel confident in their ability to navigate the system and experience joy from the ease of use.
+2. Novice Patients from non-technical background:
+Emotional response: Hope, Engaging
+These users may initially feel overwhelmed by the technology but hopeful that they can learn to use it. They may find the process engaging as they learn to navigate the system and appreciate the convenience of online ordering.
+3. Healthcare Workers (Doctor, Nurse, Lab technician) with technical background:
+Emotional response: Pride, Confidence
+These users are likely to be familiar with technology and appreciate the efficiency of online ordering. They may feel proud of their ability to use the system and confident in their ability to provide better care to their patients.
+4. Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non-technical background:
+Emotional response: Surprise, Engaging
+These users may initially be surprised by the technology but find the process engaging as they learn to use it. They may appreciate the convenience of online ordering and feel more confident in their ability to provide better care to their patients.
+
+Overall, the emotional responses to the functional requirement of placing online medicine orders are likely to be positive across all user demographics. The convenience and efficiency of online ordering are likely to be appreciated by all users, regardless of their technical background or experience."
+The application will also provide provision for booking a test online.," Based on the given context and the functional requirement, here are the predicted emotional responses for each user demographic:
+
+1. Patients with technical background:
+Emotional response: Confidence, Joy
+These users are likely to appreciate the convenience of booking a test online and may feel confident in their ability to navigate the system. They may also feel joy in being able to save time and effort by avoiding a physical visit to the healthcare facility.
+2. Novice Patients from non technical background:
+Emotional response: Hope, Engaging
+These users may feel hopeful that the online booking system will be easy to use and may find the process engaging as they learn to navigate the system. However, they may also feel some self-consciousness or anxiety about using a new technology.
+3. Healthcare Workers (Doctor, Nurse, Lab technician) with technical background:
+Emotional response: Confidence, Pride
+These users are likely to appreciate the efficiency and accuracy of the online booking system and may feel confident in their ability to use it. They may also feel pride in being able to offer their patients a more convenient and streamlined experience.
+4. Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background:
+Emotional response: Hope, Engaging, Self-Consciousness
+These users may feel hopeful that the online booking system will be easy to use and may find the process engaging as they learn to navigate the system. However, they may also feel some self-consciousness or anxiety about using a new technology. They may also feel some sadness if they are not able to offer their patients the same level of personalized care as they would in a physical setting.
+
+Overall, the emotional responses to the functional requirement are likely to be positive, with users feeling confident, hopeful, and engaged in the process of booking a test online. However, there may also be some self-consciousness or anxiety for users who are not as familiar with technology."
+The application will also provide provision for online Doctor Assistance," Based on the provided context and the functional requirement, here are the predicted emotional responses for each user demographic:
+
+1. Patients with technical background:
+Emotional response: Confidence, Engaging
+Patients with technical background are likely to feel confident using the online Doctor Assistance feature, as they are familiar with technology and can easily navigate the system. They may also find the feature engaging, as it provides a convenient way to access medical assistance.
+2. Novice Patients from non technical background:
+Emotional response: Hope, Surprise
+Novice patients from non-technical backgrounds may feel hopeful that the online Doctor Assistance feature will make it easier for them to access medical assistance. They may also be surprised by the convenience of the feature, as they may not have used similar technology before.
+3. Healthcare Workers (Doctor, Nurse, Lab technician) with technical background:
+Emotional response: Pride, Confidence
+Healthcare workers with technical backgrounds may feel proud to be part of a healthcare system that offers online Doctor Assistance, as it demonstrates a commitment to innovation and patient care. They may also feel confident using the feature, as they are familiar with technology and can easily navigate the system.
+4. Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background:
+Emotional response: Engaging, Confidence
+Novice healthcare workers from non-technical backgrounds may find the online Doctor Assistance feature engaging, as it provides a new way to interact with patients. They may also feel confident using the feature, as it is designed to be user-friendly and intuitive.
+
+Overall, the online Doctor Assistance feature is likely to be well-received by all user demographics, as it provides a convenient and accessible way to access medical assistance. However, it is important to ensure that the feature is designed to be user-friendly and intuitive, particularly for novice users from non-technical backgrounds."
+The patient can upload his/her past medical history in the system.," Demographic 1: Patients with technical background
+
+Emotional Response: Confidence, Pride
+
+Patients with technical background are likely to feel confident and proud when using a healthcare software system that allows them to upload their past medical history. They may appreciate the convenience and efficiency of being able to manage their own health information and feel empowered by the ability to take control of their healthcare.
+
+Demographic 2: Novice Patients from non technical background
+
+Emotional Response: Hope, Engaging
+
+Novice patients from non-technical backgrounds may feel hopeful and engaged when using a healthcare software system that allows them to upload their past medical history. They may appreciate the ease of use and the ability to access their health information from anywhere. However, they may also feel self-conscious about their lack of technical expertise and may require additional support and guidance to use the system effectively.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+
+Emotional Response: Confidence, Joy
+
+Healthcare workers with technical backgrounds are likely to feel confident and joyful when using a healthcare software system that allows patients to upload their past medical history. They may appreciate the convenience and efficiency of having access to patients' health information in one central location. They may also feel proud of their ability to use technology to improve patient care.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+
+Emotional Response: Surprise, Engaging
+
+Novice healthcare workers from non-technical backgrounds may feel surprised and engaged when using a healthcare software system that allows patients to upload their past medical history. They may appreciate the ease of use and the ability to access patients' health information from anywhere. However, they may also feel self-conscious about their lack of technical expertise and may require additional support and guidance to use the system effectively.
+
+Overall, the emotional response to this functional requirement is likely to be positive across all demographics. Patients and healthcare workers alike are likely to appreciate the convenience and efficiency of being able to manage and access health information in one central location. However, it is important to consider the specific needs and technical expertise of each demographic when designing and implementing the system."
+The patient can submit his/her symptoms in the system and book a doctor's appointment.," Based on the given functional requirement and the user demographics, here are the predicted emotional responses:
+
+Demographic 1: Patients with technical background
+
+* Confidence: Patients with technical background may feel confident using the system to submit their symptoms and book a doctor's appointment. They may appreciate the convenience and efficiency of the system.
+* Pride: Patients with technical background may feel a sense of pride in being able to use the system effectively and efficiently.
+
+Demographic 2: Novice Patients from non technical background
+
+* Self-Consciousness: Novice patients from non-technical backgrounds may feel self-conscious about using the system, especially if they are not familiar with technology. They may feel intimidated by the process of submitting their symptoms and booking an appointment online.
+* Hope: However, they may also feel hopeful that the system will make it easier for them to access healthcare services.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+
+* Confidence: Healthcare workers with technical backgrounds may feel confident using the system to review patient symptoms and schedule appointments. They may appreciate the efficiency and accuracy of the system.
+* Joy: They may also feel joy in being able to provide better care to their patients through the use of technology.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+
+* Surprise: Novice healthcare workers from non-technical backgrounds may be surprised by the system's capabilities and may need some time to adjust to using it.
+* Engaging: However, they may also find the system engaging and appreciate the opportunity to learn new skills.
+
+Overall, the emotional responses to the functional requirement are likely to be positive, with users feeling confident, hopeful, and engaged. However, there may be some initial self-consciousness and surprise among novice users, especially those from non-technical backgrounds."
+The patient will have the provision to select the doctor from the application.," Based on the given functional requirement and the user demographics, here are the predicted emotional responses:
+
+1. Patients with technical background:
+Emotional Response: Confidence, Joy
+These users are likely to appreciate the ability to select their doctor from the application, as it gives them more control over their healthcare experience. They may feel confident in their ability to navigate the application and make informed decisions about their healthcare providers.
+2. Novice Patients from non technical background:
+Emotional Response: Hope, Engaging
+These users may feel hopeful that they can find a doctor who meets their needs and preferences. They may also find the process of selecting a doctor from the application to be engaging, as it allows them to learn more about different healthcare providers.
+3. Healthcare Workers (Doctor, Nurse, Lab technician) with technical background:
+Emotional Response: Pride, Confidence
+These users may feel proud to be part of a healthcare system that allows patients to select their own doctors. They may also feel confident in their ability to use the application and provide high-quality care to their patients.
+4. Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background:
+Emotional Response: Surprise, Engaging
+These users may be surprised by the ability to be selected by patients through the application. They may also find the process of being selected by patients to be engaging, as it allows them to connect with patients in a new way.
+
+Overall, the emotional responses to this functional requirement are likely to be positive, as it empowers patients to make informed decisions about their healthcare providers and allows healthcare workers to connect with patients in new ways."
+The system must notify the patient of the appointment one-day in-prior.," Demographic 1: Patients with technical background - Confidence, Joy
+
+Patients with a technical background would likely appreciate the one-day prior notification feature, as it aligns with their expectations for efficient and reliable software systems. They may feel confident in the healthcare software system's ability to manage their appointments and experience joy from the convenience of the notification feature.
+
+Demographic 2: Novice Patients from non-technical background - Hope, Engaging
+
+Novice patients from non-technical backgrounds may feel hopeful that the one-day prior notification feature will help them stay organized and avoid missing appointments. They may also find the feature engaging, as it provides a clear and simple way to stay informed about their healthcare appointments.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background - Confidence, Pride
+
+Healthcare workers with a technical background may feel confident in the healthcare software system's ability to manage appointments and experience pride in using a system that prioritizes patient communication and engagement. They may also appreciate the efficiency and reliability of the one-day prior notification feature.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non-technical background - Hope, Engaging
+
+Novice healthcare workers from non-technical backgrounds may feel hopeful that the one-day prior notification feature will help them stay organized and avoid scheduling conflicts. They may also find the feature engaging, as it provides a clear and simple way to communicate with patients about their appointments."
+The doctor can provide an online prescription to the patient.," Based on the given context and the functional requirement, here are the predicted emotional responses of different user demographics:
+
+Demographic 1: Patients with technical background
+
+* Confidence: Patients with technical background are likely to feel confident using an online prescription system, as they are familiar with technology and can easily navigate the platform.
+* Pride: They may feel a sense of pride in being able to use technology to manage their healthcare needs.
+* Engaging: They may find the online prescription system to be engaging and convenient, as it allows them to communicate with their doctor and receive prescriptions without having to physically visit the doctor's office.
+
+Demographic 2: Novice Patients from non technical background
+
+* Hope: Novice patients from non-technical backgrounds may feel hopeful that the online prescription system will make it easier for them to manage their healthcare needs.
+* Surprise: They may be surprised at how easy it is to use the online prescription system, even if they are not familiar with technology.
+* Engaging: They may find the online prescription system to be engaging and convenient, as it allows them to communicate with their doctor and receive prescriptions without having to physically visit the doctor's office.
+
+Demographic 3: Healthcare Workers (Doctor, Nurse, Lab technician) with technical background
+
+* Confidence: Healthcare workers with technical backgrounds are likely to feel confident using an online prescription system, as they are familiar with technology and can easily navigate the platform.
+* Pride: They may feel a sense of pride in being able to use technology to manage their patients' healthcare needs.
+* Engaging: They may find the online prescription system to be engaging and convenient, as it allows them to communicate with their patients and provide prescriptions without having to physically see them.
+
+Demographic 4: Novice Healthcare Workers (Doctor, Nurse, Lab technician) from non technical background
+
+* Hope: Novice healthcare workers from non-technical backgrounds may feel hopeful that the online prescription system will make it easier for them to manage their patients' healthcare needs.
+* Surprise: They may be surprised at how easy it is to use the online prescription system, even if they are not familiar with technology.
+* Engaging: They may find the online prescription system to be engaging and convenient, as it allows them to communicate with their patients and provide prescriptions without having to physically see them.
+
+Overall, the online prescription system is likely to be well-received by all user demographics, as it provides a convenient and efficient way to manage healthcare needs. However, it is important to ensure that the system is user-friendly and accessible to all users, regardless of their technical background."
