@@ -1,0 +1,83 @@
+1. Zulkifli, Syazwanie & Shiang, Cheah & Khairuddin, Muhammad Asyraf & Jali, Nurfauza. (2020). Modeling Emotion Oriented Approach through Agent-Oriented Approach. International Journal on Advanced Science, Engineering and Information Technology. 10. 647. 10.18517/ijaseit.10.2.10644. 
+
+2. Sherkat, Mohammadhossein & Miller, Tim & Mendoza, Antonette & Burrows, Rachel. (2021). Emotionalism Within People-Oriented Software Design. Frontiers in Computer Science. 3. 717787. 10.3389/fcomp.2021.717787. 
+
+3. Shaikha B. AlKhuder and Fatma H. AlAli. 2017. E-Learning Systems Requirements Elicitation: Perspectives and Considerations. Int. J. Virtual Pers. Learn. Environ. 7, 1 (January 2017), 44–55. https://doi.org/10.4018/IJVPLE. 2017010104
+
+4. N. Prihartini, H. L. Soemitro and B. Hendradjaya, "Identifying aspects of web e-learning in LMS-based for requirement engineering process modeling," 2016 International Conference on Data and Software Engineering (ICoDSE), Denpasar, Indonesia, 2016, pp. 1-6, doi: 10.1109/ICODSE.2016.7936134. 
+
+5. M. Feidakis,Chapter 11 - A Review of Emotion-Aware Systems for e-Learning in Virtual Environments,Editor(s): Santi Caballé, Robert Clarisó, In Intelligent Data-Centric Systems, Formative Assessment, Learning Data Analytics and Gamification, Academic Press, 2016, Pages 217-242, ISBN 9780128036372, https://doi.org/10.1016/B978-0-12-803637-2.00011-7.
+
+6. Feidakis, Michalis & Daradoumis, Thanasis & Caballé, Santi & Conesa, Jordi. (2012). Design of an emotion aware e-learning system. International Journal of Knowledge and Learning. 8. 219-238. 10.1504/IJKL.2012.051676. 
+
+7. L. Dounas, R. Mazo, C. Salinesi and O. El Beqqali, "Continuous monitoring of adaptive e-learning systems requirements," 2015 IEEE/ACS 12th International Conference of Computer Systems and Applications (AICCSA), Marrakech, Morocco, 2015, pp. 1-8, doi: 10.1109/AICCSA.2015.7507210. 
+
+8. R. Hammad, M. Odeh and Z. Khan, "Towards A Generic Requirements Model for Hybrid and Cloud-based e-Learning Systems," 2013 IEEE 5th International Conference on Cloud Computing Technology and Science, Bristol, UK, 2013, pp. 106-111, doi: 10.1109/CloudCom.2013.169. 
+
+9. A. K. Bright and L. Coventry, “Assistive technology for older adults: psychological and socio-emotional design requirements,” in Proceedings of the 6th international conference on pervasive technologies related to assistive environments, 2013, pp. 1–4
+
+10. A. Sutcliffe, “User-oriented requirements engineering,” in Usability- and Accessibility - Focused Requirements Engineering. Springer, 2012, pp. 11–33.
+
+11. X. Zhao, W. Yu, and X. Liang, “Research on the design of mobile infusion devices for children based on emotionalization,” in International Conference on Human-Computer Interaction. Springer, 2021, pp. 170– 185
+
+12. R. Mart.nez, F. J. Moreno-Muro, F. J. Melero-Mu.oz, M. V. Bueno-Delgado, J. Garrido-Lova, M. S.nchez-Melero, and K. Taveter, “Codesign and engineering of user requirements for a novel ict healthcare solution in murcia, spain,” in International Conference on Smart Objects and Technologies for Social Good. Springer, 2021, pp. 279–292
+
+13. R. L. Zenni Tanure, P. F. Magnago and M. E. Soares Echeveste, "Functional and emotional dimensions: Method to measure through data collection instruments for new products in healthcare," 2013 Proceedings of PICMET '13: Technology Management in the IT-Driven Services (PICMET), San Jose, CA, USA, 2013, pp. 2551-2563. 
+
+14. M. P. Craven, A. R. Lang, and J. L. Martin, “Developing mhealth apps with researchers: multi-stakeholder design considerations,” in International Conference of Design, User Experience, and Usability. Springer, 2014, pp. 15–24
+
+15. E. Jackson and A. Norta, “Design of a remote emotional requirement elicitation feedback method,” in 2020 IEEE Third International Workshop on Affective Computing in Requirements Engineering (AffectRE). IEEE, 2020, pp. 3–8
+
+16. E. Alatawi, A. Mendoza, and T. Miller, “Psychologically-driven requirements engineering: a case study in depression care,” in 2018 25th Australasian Software Engineering Conference (ASWEC). IEEE, 2018, pp. 41–50.
+
+17. N. N. B. Abdullah, J. Grundy, J. McIntosh, Y. C. How, S. Saharuddin, K. K. Tat, E. ShinYe, A. J. A. Rastom, and N. L. Othman, “Using work system design, user stories and emotional goal modeling for an mhealth system,” in 2020 IEEE First International Workshop on Requirements Engineering for Well-Being, Aging, and Health (REWBAH). IEEE, 2020, pp. 1–10.
+
+18. K. Mooses and K. Taveter, “Agent-oriented goal models in developing information systems supporting physical activity among adolescents: Literature review and expert interviews,” Journal of Medical Internet Research, vol. 23, 2021.
+
+19. K. Taveter, L. Sterling, S. Pedell, R. Burrows, and E. M. Taveter, “A method for eliciting and representing emotional requirements: Two case studies in e-healthcare,” in 2019 IEEE 27th International Requirements Engineering Conference Workshops (REW). IEEE, 2019, pp. 100–105
+
+20. Roy, M., Das, S., Deb, N. et al. Correlating contexts and NFR conflicts from event logs. Softw Syst Model 22, 1987–2010 (2023). https://doi.org/10.1007/s10270-023-01087-4
+
+21. T. Miller, S. Pedell, A. A. Lopez-Lorca, A. Mendoza, L. Sterling, and A. Keirnan, “Emotion-led modelling for people-oriented requirements engineering: the case study of emergency systems,” Journal of Systems and Software, vol. 105, pp. 54–71, 2015.
+
+22. M. K. Curumsing, N. Fernando, M. Abdelrazek, R. Vasa, K. Mouzakis, and J. Grundy, “Emotion-oriented requirements engineering: A case study in developing a smart home system for the elderly,” Journal of systems and software, vol. 147, pp. 215–229, 2019.
+
+23. J. Grundy, “Human-centric software engineering for next generation cloud-and edge-based smart living applications,” in 2020 20th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID). IEEE, 2020, pp. 1–10.
+
+24. Vieira Junior CGonçalves RMalcher PSantos R(2024)Investigating Solutions for Social and Human Factors in Requirements EngineeringProceedings of the XXIII Brazilian Symposium on Software Quality. 10.1145/3701625.3701677 (394-405)Online publication date: 5-Nov-2024
+
+25. Tahira Iqbal, Kuldar Taveter, Tarmo Strenze, Waqar Hussain, Omar Haggag, John Alphonsus Matthews, and Anu Piirisild. 2024. Identification of human values from goal models. In Proceedings of the 2024 IEEE/ACM 17th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE '24). Association for Computing Machinery, New York, NY, USA, 24–35. https://doi.org/10.1145/3641822.3641879
+
+26. Alwidian SKühn TSousa V(2022)Towards extending the goal-oriented requirements language with emotion-oriented goals to support socio-technical systemsProceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings. 10.1145 / 3550356. 3561547(306-311)Online publication date: 23-Oct-2022
+
+27. C. Beckel, H. Serfas, E. Zeeb, G. Moritz, F. Golatowski and D. Timmermann, "Requirements for smart home applications and realization with WS4D-PipesBox," ETFA2011, Toulouse, France, 2011, pp. 1-8, doi: 10.1109/ETFA.2011. 6059229. 
+
+28. Gonçalo Miguéis, João Araujo, and Ana Moreira. 2019. Towards a requirements language for modeling emotion in videogames. In Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (SAC '19). Association for Computing Machinery, New York, NY, USA, 1878–1880. https://doi.org/10.1145/3297280. 3297614
+
+29. D. Callele, E. Neufeld, and K. Schneider, “Visualizing emotional requirements,” in 2009 Fourth International Workshop on Requirements Engineering Visualization. IEEE, 2009, pp. 1–10.
+
+30. C. Alves, G. Ramalho and A. Damasceno, "Challenges in Requirements Engineering for Mobile Games Development: The Meantime Case Study," 15th IEEE International Requirements Engineering Conference (RE 2007), Delhi, India, 2007, pp. 275-280, doi: 10.1109/RE.2007.53. 
+
+31. N. Alturaief, H. Aljamaan and M. Baslyman, "AWARE: Aspect-Based Sentiment Analysis Dataset of Apps Reviews for Requirements Elicitation," 2021 36th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW), Melbourne, Australia, 2021, pp. 211-218, doi: 10.1109/ASEW52652.2021.00049. 
+
+32. Luis Valente, Bruno Feijó, Julio Cesar Sampaio do Prado Leite, "Mapping quality requirements for pervasive mobile games", Requirements Engineering, 2015.
+
+33. Noemí Merayo, Rosalía Cotelo, Rocío Carratalá-Sáez, Francisco J. Andújar, Applying machine learning to assess emotional reactions to video game content streamed on Spanish Twitch channels, Computer Speech & Language, Volume 88, 2024, 101651, ISSN 0885-2308, https://doi.org/10.1016/j.csl.2024. 101651. 
+
+34. PURE dataset- MultiMahajong: Ferrari, A., Spagnolo, G. O., & Gnesi, S. (2017, September). PURE: A dataset of public requirements documents. In 2017 IEEE 25th International Requirements Engineering Conference (RE) (pp. 502-505). IEEE.
+
+35. R. Burrows, A. Lopez-Lorca, L. Sterling, T. Miller, A. Mendoza, and S. Pedell, “Motivational modelling in software for homelessness: Lessons from an industrial study,” in 2019 IEEE 27th International Requirements Engineering Conference (RE), 2019, pp. 297–307.
+
+36. C. Grundy, L. Pemberton, and R. Morris, “Characters as agents for the co-design process,” in Proceedings of the 11th International Conference on Interaction Design and Children, ser. IDC ’12. New York, NY, USA: Association for Computing Machinery, 2012, p.180–183. [Online]. Available: https://doi.org/10.1145/2307096.2307120
+
+37. A. A. Lopez-Lorca, T. Miller, S. Pedell, A. Mendoza, A. Keirnan, and L. Sterling, “One size doesn’t fit all: Diversifying ‘the user’ using personas and emotional scenarios,” in Proceedings of the 6th International Workshop on Social Software Engineering, 2014, pp. 25– 32.
+
+38. A. Sutcliffe, “Designing user interfaces in emotionally-sensitive applications,” in IFIP Conference on Human-Computer Interaction. Springer, 2017, pp. 404–422.
+
+39. M. Levy, “Emotional requirements for well-being applications: The customer journey,” in 2020 IEEE First International Workshop on Requirements Engineering for Well-Being, Aging, and Health (REWBAH). IEEE, 2020, pp. 35–40.
+
+40. S. F. Zulkifli, M. Gharib and K. Taveter, "First Steps Towards Building a Dictionary of Emotional Requirements in Healthcare and Well-Being," 2024 IEEE 32nd International Requirements Engineering Conference Workshops (REW), Reykjavik, Iceland, 2024, pp. 376-384, doi: 10.1109/REW61692.2024.00059. 
+
+41. H. Belani, P. Šolić and T. Perković, "Towards Ontology-Based Requirements Engineering for IoT-Supported Well-Being, Aging and Health," 2022 IEEE 30th International Requirements Engineering Conference Workshops (REW), Melbourne, Australia, 2022, pp. 65-74, doi: 10.1109/REW56159.2022. 00019.
+
+42. A. Kitkowska, K. Brodén and L. Abdullah, "The Requirements, Benefits, and Barriers of IoT Solutions to Support Well-Being in Elementary Schools," in IEEE Access, vol. 12, pp. 144965-144981, 2024, doi: 10.1109/ACCESS.2024. 3469558.
